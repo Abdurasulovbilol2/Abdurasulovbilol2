@@ -7,9 +7,9 @@ I'm passionate about building scalable test automation frameworks and delivering
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurasulovbilol2" alt="abdurasulovbilol2" /></a> </p>
 
-- 🔭 I’m currently working on **QA Automation Frameworks using Playwright & Cypress**
+- 🔭 Currently working as an SDET in London
 
-- 🌱 I’m currently learning **AWS, Playwright Advanced Features, CI/CD & Test Automation Framework Design**
+- 🌱 I’m currently learning AWS Cloud, Advanced Test Automation**
 
 - 🤝 I’m looking for help with **Advanced SDET, Cloud Testing & Test Architecture**
 
