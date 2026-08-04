@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilol Abdurasul</h1>
+<h1 align="center">Hi there , I'm Bilol Abdurasul!👋</h1>
 <h3 align="center">QA Engineer/SDET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurasulovbilol2&label=Profile%20views&color=0e75b6&style=flat" alt="abdurasulovbilol2" /> </p>
