@@ -1,5 +1,5 @@
 <h1 align="center">Hi there , I'm Bilol Abdurasul!👋</h1>
-<h3 align="center">QA Engineer/SDET</h3>
+<h3 align="center">QA Automation Engineer | Software Development Engineer in Test (SDET)</h3>
 
 I'm passionate about building scalable test automation frameworks and delivering high-quality software.
 
