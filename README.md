@@ -1,4 +1,4 @@
-<h1>Hi there , I'm Bilol Abdurasul!👋</h1>
+<h1>Hi there , I'm Bilol Abdurasulov!👋</h1>
 <h3>QA Automation Engineer | Software Development Engineer in Test (SDET)</h3>
 
 I'm passionate about building scalable test automation frameworks and delivering high-quality software.
