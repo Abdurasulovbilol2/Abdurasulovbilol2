@@ -6,16 +6,14 @@ I'm passionate about building scalable test automation frameworks and delivering
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurasulovbilol2&label=Profile%20views&color=0e75b6&style=flat" alt="abdurasulovbilol2" /> </p>
 
 <p>👨‍💻About me</p>
-
-- 🔭 Currently working as an SDET in London
-
-- 🌱 I’m currently learning AWS Cloud, Advanced Test Automation**
-
-- 💬 Ask me about **Playwright, Cypress, JavaScript, TypeScript, API Testing & Test Automation**
-
-- 📫 How to reach me **abdurasulovbiloliddin98@gmail.com**
-
-- ⚡ Fun fact **I enjoy automating repetitive tasks and finding bugs before users do!**
+- 🔭 Currently working as an **SDET in London**
+- 🧪 Specialising in **UI, API & End-to-End Test Automation**
+- 🎭 Working with **Playwright & Cypress**
+- 💻 JavaScript & TypeScript
+- ☁️ Currently learning **AWS Cloud & Advanced Test Automation**
+- 🔄 Interested in **CI/CD and DevOps**
+- 🐛 Passionate about finding bugs before users do
+- 🏗️ Interested in designing scalable automation frameworks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
