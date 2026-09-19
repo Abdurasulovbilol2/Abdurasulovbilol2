@@ -7,21 +7,34 @@ I'm passionate about building scalable test automation frameworks and delivering
 
 <p>👨‍💻About me</p>
 
-- 🔭 Currently working as an **SDET in London**
+- 💼 SDET based in London
+  
+- 🎭 Playwright | Cypress
 
-- 🧪 Specialising in **UI, API & End-to-End Test Automation**
+- 💻 JavaScript | TypeScript
 
-- 🎭 Working with **Playwright & Cypress**
+- 🔌 API Testing | E2E Testing
 
-- 💻 JavaScript & TypeScript
+- ⚙️ CI/CD | GitHub Actions
 
-- ☁️ Currently learning **AWS Cloud & Advanced Test Automation**
+- ☁️ Currently learning AWS & Advanced Test Automation
 
-- 🔄 Interested in **CI/CD and DevOps**
+- 🐛 I automate repetitive tasks and find bugs before users do!
 
-- 🐛 Passionate about finding bugs before users do
+### 🛠️ Tech Stack
 
-- 🏗️ Interested in designing scalable automation frameworks
+`Playwright` `Cypress` `TypeScript` `JavaScript`  
+`API Testing` `Postman` `Git` `GitHub Actions` `AWS` `Docker`
+
+### 🚀 Featured Projects
+
+- 🎭 **Playwright Automation Framework**
+
+- 🔌 **API Automation Framework**
+
+- ⚙️ **CI/CD Testing Pipeline**
+
+- ☁️ **AWS Test Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
