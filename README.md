@@ -11,8 +11,6 @@ I'm passionate about building scalable test automation frameworks and delivering
 
 - 🌱 I’m currently learning AWS Cloud, Advanced Test Automation**
 
-- 🤝 I’m looking for help with **Advanced SDET, Cloud Testing & Test Architecture**
-
 - 💬 Ask me about **Playwright, Cypress, JavaScript, TypeScript, API Testing & Test Automation**
 
 - 📫 How to reach me **abdurasulovbiloliddin98@gmail.com**
