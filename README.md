@@ -40,8 +40,6 @@ I'm passionate about building scalable test automation frameworks and delivering
 
 📧 **Email:** abdurasulovbiloliddin98@gmail.com 
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bilol-abdurasul-81544930a/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bilol-abdurasul-81544930a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilol-abdurasul-81544930a/" height="30" width="40" /></a>
