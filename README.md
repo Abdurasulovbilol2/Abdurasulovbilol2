@@ -39,6 +39,7 @@ I'm passionate about building scalable test automation frameworks and delivering
 ### 📫 Connect With Me
 
 📧 **Email:** abdurasulovbiloliddin98@gmail.com 
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bilol-abdurasul-81544930a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
